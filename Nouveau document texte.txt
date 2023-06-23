@@ -1,3 +1,2 @@
-ihebbbbbbb
-ihebabdel44@gmail.com
-21751430a
+user.email=ihebabdel44@gmail.com
+user.name=ihebbbbbbb
